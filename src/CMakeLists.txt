@@ -1,0 +1,5 @@
+add_subdirectory(utils)
+add_subdirectory(port)
+add_subdirectory(nutlog)
+add_subdirectory(script)
+add_subdirectory(core)
